@@ -3,7 +3,7 @@
 > Desafio01
 
 
- > 🔗 [Clique aqui para acessar](https://matheusvs0.github.io/NLW-esports-Explorer)
+ > 🔗 [Clique aqui para acessar](https://matheusvs0.github.io/WebFundamentos_Desafio01/)
 
 
 
